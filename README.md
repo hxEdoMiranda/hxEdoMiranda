@@ -3,7 +3,7 @@
 :ok_hand: I am currently doing the google certification in UX design
 
 <div align="lefth">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxEdoMiranda&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxEdoMiranda&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   
@@ -22,7 +22,7 @@
   ##
  
 <div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/edomiranda_/?hl=en" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-antonio-miranda-quezada/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   <!--![Snake animation](https://github.com/name/name/blob/output/github-contribution-grid-snake.svg)-->
