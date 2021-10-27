@@ -2,9 +2,7 @@
 
 :ok_hand: I am currently doing the google certification in UX design
 
-<div align="center">
-  <a href="https://github.com/hxEdoMiranda">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hxEdoMiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="lefth">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxEdoMiranda&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
