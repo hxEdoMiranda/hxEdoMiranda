@@ -14,6 +14,7 @@
 <img align="center" alt="Edo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 <img align="center" alt="Edo-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
 <img align="center" alt="Edo-PowerBI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" />
+  <img align="center" alt="Power BI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" />
 <img align="center" alt="Edo-API-REST" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rest/rest-original.svg" />
 
 
