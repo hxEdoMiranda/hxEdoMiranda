@@ -1,6 +1,6 @@
 ## Hi I'm Eduardo Miranda
 
-:ok_hand: I am currently doing the google certification in UX design
+:ok_hand:
 
 <div align="lefth">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxEdoMiranda&layout=compact&langs_count=10&theme=dark"/>
