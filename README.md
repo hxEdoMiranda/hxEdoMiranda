@@ -8,14 +8,15 @@
   
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Edo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">    
-  <img align="center" alt="Edo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Edo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Edo-SCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
-    <img align="center" alt="Edo-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
-    <img align="center" alt="Edo-PhotoShop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" />
-   <img align="center" alt="Edo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Edo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ <img align="center" alt="Edo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+<img align="center" alt="Edo-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" />
+<img align="center" alt="Edo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img align="center" alt="Edo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+<img align="center" alt="Edo-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+<img align="center" alt="Edo-PowerBI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" />
+<img align="center" alt="Edo-FastAPI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="FastAPI (Python framework)" />
+<img align="center" alt="Edo-API-REST" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rest/rest-original.svg" />
+
 
 </div>
   
